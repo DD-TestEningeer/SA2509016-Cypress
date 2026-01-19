@@ -1,1 +1,6 @@
 https://github.com/DD-TestEningeer/SA2509016-Cypress
+
+https://github.com/DD-TestEningeer/cypress-demo/wiki/Cypress-Assertions-%E2%80%93-Complete-Documentation
+https://github.com/DD-TestEningeer/cypress-demo/wiki
+https://dd-demo-tau.vercel.app/register.html
+https://github.com/DD-TestEningeer/SA2509016-Cypress/tree/main/cypress/e2e
