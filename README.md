@@ -1,6 +1,6 @@
 # Cypress-Web-Automation-SA2509016
 
-# 📑 Cypress Training – Table of Contents
+# 📑 Cypress Training – Table of Content
 
 * **[Part 1: Introduction & Setup](#-cypress-training--part-1)**
   * [Learning Objectives](#-learning-objectives)
